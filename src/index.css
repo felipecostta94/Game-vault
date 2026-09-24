@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+  background-color: #020617; /* equivalente a bg-slate-950 */
+  color: #f8fafc;           /* equivalente a text-slate-100 */
+  min-height: 100vh;
+}
+
+html {
+  scroll-behavior: smooth;
+}
