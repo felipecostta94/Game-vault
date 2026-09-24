@@ -1,13 +1,18 @@
 # 🎮 GameVault
 
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://game-vault-eta.vercel.app)
+
 O **GameVault** é uma plataforma web moderna para exploração e descoberta de jogos eletrónicos. A aplicação consome a API da RAWG para fornecer informações atualizadas sobre lançamentos, jogos populares, detalhes completos e filtragem por categorias/gêneros, tudo com uma interface responsiva, intuitiva e totalmente traduzida para português.
+
+🔗 **Acesse a versão live:** [https://game-vault-eta.vercel.app](https://game-vault-eta.vercel.app)
 
 ---
 
 ## 🚀 Funcionalidades
 
+- 🌐 **Live Demo:** Aplicação hospedada e funcional online na Vercel.
 - 🔍 **Exploração de Jogos:** Pesquisa e navegação por títulos populares, lançamentos e recomendações.
-- 📂 **Navegação por Categorias:** Páginas dedicadas para cada género de jogo (Ação, RPG, Estratégia, Indie, etc.).
+- 📂 **Navegação por Categorias:** Páginas dedicadas para cada gênero de jogo (Ação, RPG, Estratégia, Indie, etc.).
 - 🌐 **Internacionalização:** Sistema de tradução centralizado para descrições, badges e categorias em português.
 - 📱 **Interface Responsiva:** Design otimizado para dispositivos móveis, tablets e desktops.
 - ⚡ **Desempenho Otimizado:** Construído com Vite e React para um carregamento ultra-rápido.
